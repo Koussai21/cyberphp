@@ -17,7 +17,7 @@ if (isset($_GET['page'])) {
         $controller = new PersonnagesController();
         $controller->getPersos();
     } elseif ($page == 'blabla') {
-        require_once('controller/forumController.php');
+        require_once('view/forum.php');
     }  elseif ($page == 'inscription') {
         require_once('controller/userController.php');
         $user = new UsersController;
