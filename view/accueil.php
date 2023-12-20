@@ -25,6 +25,7 @@
             p{
                 color:white;
                 font-family:sans-serif;
+            }
 =======
             @font-face {
                 font-family:GlitchGoblin;
