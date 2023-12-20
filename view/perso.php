@@ -12,13 +12,21 @@
 
     h1 {
         color: white;
+<<<<<<< HEAD
         font-family: sans-serif;
+=======
+        font-family: impact;
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
         border: 1px black;
     }
 
     p {
         color: white;
+<<<<<<< HEAD
         font: sans-serif;
+=======
+        font: impact;
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     }
 
     .pannel {
@@ -27,7 +35,10 @@
         border: solid 2px skyblue;
         margin-bottom: 20px;
         padding: 10px;
+<<<<<<< HEAD
         font: sans-serif;
+=======
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     }
 
     .infos {
@@ -38,13 +49,19 @@
 
     .infos h2 {
         margin-top: 0;
+<<<<<<< HEAD
         font: sans-serif;
+=======
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     }
 
     .infos p {
         margin: 5px 0;
+<<<<<<< HEAD
         font: sans-serif;
         color:white;
+=======
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     }
 
     .pannel img {

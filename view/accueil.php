@@ -9,6 +9,7 @@
                     background: linear-gradient(to right, #ffeb3b, #000000, #ffeb3b); /* Dégradé jaune */
                     min-height: 100vh; /* Pour s'assurer que le dégradé couvre toute la hauteur de la fenêtre */
                 }
+<<<<<<< HEAD
             h1{
                 color:white;
                 font-family:sans-serif;
@@ -24,6 +25,15 @@
             p{
                 color:white;
                 font-family:sans-serif;
+=======
+            @font-face {
+                font-family:GlitchGoblin;
+                src: url(GlitchGoblin-2O87v.ttf);
+            }
+            h1{
+                color:white;
+                font-family:GlitchGoblin;
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
             }
         </style>
     </head>

@@ -8,10 +8,13 @@
         border-radius: 10px; /* Coins arrondis */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Ombre légère */
     }
+<<<<<<< HEAD
     h2{
                 color:white;
                 font-family:sans-serif;
             }
+=======
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
 
     form input {
         margin-bottom: 10px; /* Espacement entre les champs de saisie */

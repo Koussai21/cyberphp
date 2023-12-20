@@ -9,7 +9,13 @@ class UsersController
         $this->model = new UsersModel;
     }
 
+<<<<<<< HEAD
     
+=======
+    /**
+     * INSCRIPTION
+     */
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     public function getFormInscription()
     {
         include_once('view/inscription.php');
@@ -39,7 +45,13 @@ class UsersController
 
 
     }
+<<<<<<< HEAD
     
+=======
+    /**
+     * Authentification
+     */
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     public function getFormAuthentification()
     {
         include_once('view/authentification.php');

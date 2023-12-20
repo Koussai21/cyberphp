@@ -46,4 +46,14 @@
         <button>Poster</button>
         </form>
 
+<<<<<<< HEAD
+=======
+        <?php 
+        foreach ($threads as $thread) { ?>
+            <div>
+                <h2><?= $thread['Sujet'] ?></h2>
+                <p>Date de naissance: <?= $thread['Message']; ?></p>
+            </div>
+            <?php } ?>
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
     </body>

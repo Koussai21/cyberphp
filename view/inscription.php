@@ -34,10 +34,13 @@
         background-color: #000; /* Couleur du fond au survol du bouton */
         color: #ffeb3b; /* Couleur du texte au survol du bouton */
     }
+<<<<<<< HEAD
     h2{
                 color:white;
                 font-family:sans-serif;
             }
+=======
+>>>>>>> 51c6c4314d7d44b7eb2e8201aab04b81dfe52278
 
 </style>
 
